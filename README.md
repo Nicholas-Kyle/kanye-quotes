@@ -109,6 +109,14 @@ curl -X POST \
   -H 'Authorization: Bearer replace-with-api-token'
 ```
 
+### Run the tests
+
+To run the tests, use the following command:
+
+```sh
+php artisan test
+```
+
 
 
 
