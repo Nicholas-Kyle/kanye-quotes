@@ -106,7 +106,7 @@ To fetch a list of Kanye West quotes, use the following curl command:
 ```sh
 curl -X POST \
   http://localhost:8000/api/kanye-quotes/refresh \
-  -H 'Authorization: Bearer 7308dabb-594d-4f96-8baf-a07ccb5d49b9'
+  -H 'Authorization: Bearer replace-with-api-token'
 ```
 
 
